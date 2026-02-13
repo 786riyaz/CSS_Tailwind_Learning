@@ -41,3 +41,6 @@ Chapters:
 ✅ 05:24:57 - Dialog box in Tailwind CSS (Mini-Project)
 ✅ 05:41:52 - Install Tailwind CSS in React js
 ✅ 05:49:34 - Google clone Project (Main Project)
+
+
+GitHub Link :: https://github.com/anil-sidhu/tailwind-tutorial.git
