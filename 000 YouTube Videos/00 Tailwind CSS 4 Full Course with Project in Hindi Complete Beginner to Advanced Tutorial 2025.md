@@ -17,7 +17,7 @@ Chapters:
 ✅ 01:30:45 - Size classes in Tailwind 
 ✅ 01:37:25 - Position classes in Tailwind 
 ✅ 01:47:42 - Container in Tailwind 
-✅ 01:58:17 - Background  classes in Tailwind 
+✅ 01:58:17 - Background classes in Tailwind 
 ✅ 02:07:30 - Filters on Images in Tailwind 
 ✅ 02:16:24 - Interactivity classes in Tailwind 
 ✅ 02:26:04 - Media query and break points in Tailwind 
@@ -41,6 +41,5 @@ Chapters:
 ✅ 05:24:57 - Dialog box in Tailwind CSS (Mini-Project)
 ✅ 05:41:52 - Install Tailwind CSS in React js
 ✅ 05:49:34 - Google clone Project (Main Project)
-
 
 GitHub Link :: https://github.com/anil-sidhu/tailwind-tutorial.git
